@@ -9,7 +9,7 @@ This tool allows you to easily find references to GameObjects and their componen
 
 ## How to use
 1. **Install the Package**:
-   - Add the Reference Finder package to your project by using the Package Manager and adding via the GitHub repository URL.
+   - Add the Reference Finder package to your project by using the Package Manager and adding it via the GitHub repository URL.
 
 2. **Access the Tool**:
    - Open your Unity project with the package installed.
