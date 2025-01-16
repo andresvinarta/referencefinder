@@ -2,7 +2,6 @@
  * 
  * Created by Andrés Viñarta Flores -> andresvinarta@gmail.com
  * 
- * 
 */
 
 using UnityEngine;
