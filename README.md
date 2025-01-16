@@ -1,6 +1,6 @@
 # Reference Finder Tool
 
-This tool allows you to easily find references to GameObjects and their components within your Unity project.
+This tool allows you to easily find references to GameObjects and their components within a scene in your Unity project.
 
 ## How to use
 
