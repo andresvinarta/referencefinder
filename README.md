@@ -1,4 +1,4 @@
-# Reference Finder Tool
+# Reference Finder
 
 This tool allows you to easily find references to GameObjects and their components within a scene in your Unity project.
 
