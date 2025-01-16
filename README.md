@@ -14,12 +14,12 @@ This tool allows you to easily find references to GameObjects and their componen
    - Click on **Find GameObject References** to open the tool window and start finding references to your GameObjects.
 
 3. **The information is formatted as follows**:
-- * GameObject with references' name 1
-  * Component's name 1 -> Field's name (Type of field)
+- GameObject with references' name 1
+  -- Component's name 1 -> Field's name (Type of field)
  
-- * GameObject with references' name 2
-  * Component's name 1 -> Field's name (Type of field)
-  * Component's name 2 -> Field's name (Type of field)
+- GameObject with references' name 2
+  -- Component's name 1 -> Field's name (Type of field)
+  -- Component's name 2 -> Field's name (Type of field)
 
 If no references have been found, it will say so.
 
