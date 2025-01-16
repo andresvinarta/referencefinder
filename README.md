@@ -2,8 +2,11 @@
 
 This tool allows you to easily find references to GameObjects and their components within a scene in your Unity project.
 
-## How to use
+## Features
+- Find GameObjects that are referenced by other objects in the scene.
+- Easily navigate to referenced GameObjects from the tool.
 
+## How to use
 1. **Install the Package**:
    - Add the Reference Finder package to your project by using the Package Manager and adding via the GitHub repository URL.
 
@@ -22,7 +25,3 @@ This tool allows you to easily find references to GameObjects and their componen
         - Component's name 2 -> Field's name (Type of field)
 
 If no references have been found, it will say so.
-
-## Features
-- Find GameObjects that are referenced by other objects in the scene.
-- Easily navigate to referenced GameObjects from the tool.
