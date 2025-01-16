@@ -3,8 +3,9 @@
 This tool allows you to easily find references to GameObjects and their components within a scene in your Unity project.
 
 ## Features
-- Find GameObjects that are referenced by other objects in the scene.
-- Easily navigate to referenced GameObjects from the tool.
+- Find GameObjects in the scene that reference a given GameObject or its components.
+- Obtain information of what components and fields the GameObject is referenced in.
+- Easily navigate to the GameObjects that have the references.
 
 ## How to use
 1. **Install the Package**:
