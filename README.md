@@ -4,17 +4,17 @@ This tool allows you to easily find references to GameObjects and their componen
 
 ## Features
 - Find GameObjects in the scene that reference a given GameObject or its components.
-- Obtain information of what components and fields the GameObject is referenced in.
+- Obtain information of what components and fields the given GameObject is referenced in.
 - Easily navigate to the GameObjects that have the references.
 
 ## How to use
 1. **Install The Package**:
-   - Add the Reference Finder package to your project by using the Package Manager and adding it via the GitHub repository URL.
+   - Add the Reference Finder package to your project by using the Package Manager and installing it via the GitHub repository URL. (https://github.com/andresvinarta/referencefinder.git)
 
 2. **Access The Tool**:
    - Open your Unity project with the package installed.
    - Navigate to the **GameObject** menu at the top of the Unity editor.
-   - Under the **GameObject** menu, you will find the option **Find GameObject References**.
+   - Under the **GameObject** menu, you will find a new option named "**Find GameObject References**".
    - Click on **Find GameObject References** to open the tool window.
   
 3. **Use The Tool**:
