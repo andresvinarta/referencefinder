@@ -29,4 +29,4 @@ This tool allows you to easily find references to GameObjects and their componen
         - Component's name 1 -> Field's name (Type of field)
         - Component's name 2 -> Field's name (Type of field)
 
-**If no references have been found, it will say so.**
+   **If no references have been found, it will say so.**
