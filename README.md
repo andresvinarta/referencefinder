@@ -7,7 +7,7 @@ This tool allows you to easily find references to GameObjects and their componen
 - Obtain information of what components and fields the given GameObject is referenced in.
 - Easily navigate to the GameObjects that have the references.
 
-## How to use
+## How to install and use
 1. **Install The Package**:
    - Add the Reference Finder package to your project by using the Package Manager and installing it via the GitHub repository URL. (https://github.com/andresvinarta/referencefinder.git)
 
