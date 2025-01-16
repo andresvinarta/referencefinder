@@ -22,7 +22,7 @@ public class ReferenceFinder : EditorWindow
 
     List<ReferenceInfo> referencingObjects = new List<ReferenceInfo>();
 
-    [MenuItem("Window/Find GameObject References")]
+    [MenuItem("GameObject/Find GameObject References")]
     public static void ShowWindow()
     {
         GetWindow<ReferenceFinder>("Find GameObject References");
