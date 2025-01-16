@@ -1,6 +1,6 @@
 /*
  * 
- * Created by Andrés Viñarta Flores -> andresvinarta@gmail.com
+ * Created by AndrÃ©s ViÃ±arta Flores -> andresvinarta@gmail.com
  * 
  * 
 */
@@ -30,7 +30,7 @@ public class ReferenceFinder : EditorWindow
 
     private void OnGUI()
     {
-        targetObject = (GameObject)EditorGUILayout.ObjectField("Target Object", targetObject, typeof(GameObject), true);
+        targetObject = (GameObject)EditorGUILayout.ObjectField("Target GameObject", targetObject, typeof(GameObject), true);
 
         if (GUILayout.Button("Find References"))
         {
